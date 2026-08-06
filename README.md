@@ -4,7 +4,7 @@
 
 * B.Tech student passionate about software development
 * Currently strengthening Data Structures & Algorithms
-* Comfortable with Python and C
+* Comfortable with Python and C++
 * Interested in problem solving and building practical tools
 
 ## What I'm Working On
@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-**Languages:** Python, C
+**Languages:** Python, C++
 **Tools:** Git, GitHub
 **Concepts:** OOP, Basic DSA
 
